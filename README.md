@@ -17,7 +17,7 @@ A simple and elegant **task management web application** built to help you stay 
 - 💾 Local storage 
 
 ## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript *(or update to React/Vite if used)*
+- **Frontend:** ReactJS, Typescript, Lucide icons & TailwindCSS
 - **Deployment:** [Vercel](https://vercel.com/)
 
 ## 📦 Installation & Setup
